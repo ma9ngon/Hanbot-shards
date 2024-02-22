@@ -1,6 +1,6 @@
 # Hanbot
 - <a target="_blank" href="https://ma9ngon.blogspot.com/p/tool-hanbot3-hanbotgg.html">How to install and Download</a>
-- <a target="_blank" href="https://www.hanbotdb.com/#/hanbot](https://badspacebar.github.io/sdk/index.html">Hanbot Free AIO Database</a>
+- <a target="_blank" href="https://badspacebar.github.io/sdk/index.html">Hanbot Free AIO Database</a>
 
 # Hanbot shards Free
 ## Download and install files:
